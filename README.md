@@ -14,3 +14,10 @@ Una vez seleccionemos nuestro archivo comenzara el analisis.
 Para esto tenemos el siguiente archivo de prueba:
 
 [![Captura-de-pantalla-2022-05-26-183100.png](https://i.postimg.cc/QdPTdNKc/Captura-de-pantalla-2022-05-26-183100.png)](https://postimg.cc/VJq678RN)
+
+El cual nos mostrara el siguiente arbol.
+
+[![Captura-de-pantalla-2022-05-26-004051.png](https://i.postimg.cc/RFbrjYDC/Captura-de-pantalla-2022-05-26-004051.png)](https://postimg.cc/34pbGthz)
+[![Captura-de-pantalla-2022-05-26-004113.png](https://i.postimg.cc/Sxp0FCD9/Captura-de-pantalla-2022-05-26-004113.png)](https://postimg.cc/kBwYW6rM)
+
+aaa

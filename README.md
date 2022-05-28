@@ -22,6 +22,16 @@ El cual nos mostrara el siguiente arbol.
 
 Comprobando con el mensaje final que el codigo compilo correctamente.
 #
+Para poder ver si nos detecta un error utilizaremos el mismo archivo, solo que quitaremos la ";" en la linea 3 (a = 100).
+
+[![Captura-de-pantalla-2022-05-27-204928.png](https://i.postimg.cc/XNtYGbVS/Captura-de-pantalla-2022-05-27-204928.png)](https://postimg.cc/Wt6vCxFX)
+
+En donde nos mostrara lo siguiente.
+
+[![Captura-de-pantalla-2022-05-27-205216.png](https://i.postimg.cc/vmKpqG2G/Captura-de-pantalla-2022-05-27-205216.png)](https://postimg.cc/PLm3Nnk7)
+
+Como podemos ver nos indica que la sintaxis en el identificador "a" no es correcta, ya que falta el ";".
+#
 Para poder verificar todas las reglas del compilador utilizamos el siguiente archivo de prueba:
 
 [![Captura-de-pantalla-2022-05-27-203859.png](https://i.postimg.cc/W3Kbw6j1/Captura-de-pantalla-2022-05-27-203859.png)](https://postimg.cc/62rX9Zyk)

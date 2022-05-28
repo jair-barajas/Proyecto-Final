@@ -20,4 +20,17 @@ El cual nos mostrara el siguiente arbol.
 [![Captura-de-pantalla-2022-05-26-004051.png](https://i.postimg.cc/RFbrjYDC/Captura-de-pantalla-2022-05-26-004051.png)](https://postimg.cc/34pbGthz)
 [![Captura-de-pantalla-2022-05-26-183616.png](https://i.postimg.cc/4xnW0dTc/Captura-de-pantalla-2022-05-26-183616.png)](https://postimg.cc/18h0nyXR)
 
-Comprobando con el mensaje final que el codigo compilo correctamente
+Comprobando con el mensaje final que el codigo compilo correctamente.
+#
+Para poder verificar todas las reglas del compilador utilizamos el siguiente archivo de prueba:
+
+[![Captura-de-pantalla-2022-05-27-203859.png](https://i.postimg.cc/W3Kbw6j1/Captura-de-pantalla-2022-05-27-203859.png)](https://postimg.cc/62rX9Zyk)
+
+El cual nos mostrara el siguiente arbol.
+
+[![Captura-de-pantalla-2022-05-27-202912.png](https://i.postimg.cc/d1c5kgZs/Captura-de-pantalla-2022-05-27-202912.png)](https://postimg.cc/d7n2gH9p)
+[![Captura-de-pantalla-2022-05-27-203041.png](https://i.postimg.cc/kDPJkJ2r/Captura-de-pantalla-2022-05-27-203041.png)](https://postimg.cc/jnvYfr6v)
+[![Captura-de-pantalla-2022-05-27-203111.png](https://i.postimg.cc/4dnzWg7b/Captura-de-pantalla-2022-05-27-203111.png)](https://postimg.cc/mzfzrKSt)
+[![Captura-de-pantalla-2022-05-27-203130.png](https://i.postimg.cc/d1XGXxGM/Captura-de-pantalla-2022-05-27-203130.png)](https://postimg.cc/xJvkNgsg)
+
+Comprobando con el mensaje final que el codigo compilo correctamente.

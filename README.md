@@ -30,6 +30,7 @@ El cual nos mostrara el siguiente arbol.
 
 [![Captura-de-pantalla-2022-05-27-202912.png](https://i.postimg.cc/d1c5kgZs/Captura-de-pantalla-2022-05-27-202912.png)](https://postimg.cc/d7n2gH9p)
 [![Captura-de-pantalla-2022-05-27-203041.png](https://i.postimg.cc/kDPJkJ2r/Captura-de-pantalla-2022-05-27-203041.png)](https://postimg.cc/jnvYfr6v)
+
 [![Captura-de-pantalla-2022-05-27-203111.png](https://i.postimg.cc/4dnzWg7b/Captura-de-pantalla-2022-05-27-203111.png)](https://postimg.cc/mzfzrKSt)
 [![Captura-de-pantalla-2022-05-27-203130.png](https://i.postimg.cc/d1XGXxGM/Captura-de-pantalla-2022-05-27-203130.png)](https://postimg.cc/xJvkNgsg)
 
